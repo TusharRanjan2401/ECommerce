@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 17px;
+    line-height: 26px;
+    text-transform: uppercase;
+    box-shadow: 0 8px 6px -6px grey;
+    border-bottom: 0px solid grey !important;
+}
+
+.nav-link{
+    font-weight: 300 !important;
+}
+
+.active{
+    border-bottom: 2px solid black;
+}
+
+.navbar-brand{
+    font-family: 700;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    letter-spacing: 3px;
+}
+
+.footer{
+    color:white;
+    padding: 25px;
+    background: linear-gradient(to right, #434343, #000000 );
+}
+
+.footer a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+
+.footer a:hover{
+    color: #ffefba;
+    border-bottom: 1px solid #ffefba;
+}
+
+.pnf {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 65vh;
+  }
+  
+  .pnf-title {
+    font-size: 100px;
+    font-weight: 700;
+    margin-bottom: 20px;
+  }
+  
+  .pnf-heading {
+    font-weight: normal;
+    margin-bottom: 40px;
+  }
+  
+  .pnf-btn {
+    color: black;
+    border: 1px solid black;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+  }
+  
+  .pnf-btn:hover {
+    background-color: black;
+    color: white;
+  }
+
+ .product-link{
+  text-decoration: none !important;
+  color: black !important;
+ }
