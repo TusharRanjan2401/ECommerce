@@ -1,7 +1,7 @@
 
 # E-Commerce Application
 
-The E-Commerce Application is a modern, full-featured online shopping platform built using the MERN stack (MongoDB, Express, React, Node.js). This application allows users to browse products, add them to their cart, and make purchases. It also provides an admin interface for managing products and orders.
+The E-Commerce Application is a modern, full-featured online shopping platform built using the MERN stack (MongoDB, Express, React, Node.js). This application allows users to browse products, add them to their cart, and make purchases. It also provides an admin interface for managing products and orders. The payments are done using PayPal.
 
 # Installation
 For backend
